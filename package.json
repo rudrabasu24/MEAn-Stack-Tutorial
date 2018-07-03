@@ -1,0 +1,28 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "MEAN Stack ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudrabasu24/MEAn-Stack-Tutorial.git"
+  },
+  "keywords": [
+    "MEAn",
+    "Stack",
+    "Application"
+  ],
+  "author": "Rudra Basu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudrabasu24/MEAn-Stack-Tutorial/issues"
+  },
+  "homepage": "https://github.com/rudrabasu24/MEAn-Stack-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.0"
+  }
+}
