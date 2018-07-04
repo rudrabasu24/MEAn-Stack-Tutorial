@@ -22,7 +22,10 @@
   },
   "homepage": "https://github.com/rudrabasu24/MEAn-Stack-Tutorial#readme",
   "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
     "express": "^4.16.3",
+    "express-validator": "^5.2.0",
     "mongoose": "^5.2.0"
   }
 }
